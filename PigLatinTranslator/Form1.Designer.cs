@@ -44,7 +44,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(116, 13);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Enter English text here:";
+            this.label1.Text = "Enter your English text here:";
             // 
             // txtEnglish
             // 
@@ -72,7 +72,7 @@
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(103, 13);
             this.label2.TabIndex = 2;
-            this.label2.Text = "Pig Latin Translation";
+            this.label2.Text = "Your text translated to Pig Latin:";
             // 
             // btnTranslate
             // 
@@ -82,6 +82,7 @@
             this.btnTranslate.TabIndex = 4;
             this.btnTranslate.Text = "&Translate";
             this.btnTranslate.UseVisualStyleBackColor = true;
+            this.btnTranslate.Click += new System.EventHandler(this.btnTranslate_Click);
             // 
             // btnClear
             // 
