@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("HW 3 Pig Latin Translator")]
+[assembly: AssemblyTitle("PigLatinTranslator")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("HW 3 Pig Latin Translator")]
+[assembly: AssemblyProduct("PigLatinTranslator")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("f5ed1579-17e6-4087-a3da-78d78b213a17")]
+[assembly: Guid("14a6bea0-f0f6-494a-b0c3-5cb4613c60fe")]
 
 // Version information for an assembly consists of the following four values:
 //

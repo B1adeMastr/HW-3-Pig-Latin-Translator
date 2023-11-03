@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace HW_3_Pig_Latin_Translator.Properties
+namespace PigLatinTranslator.Properties
 {
 
 

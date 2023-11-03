@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F5ED1579-17E6-4087-A3DA-78D78B213A17}</ProjectGuid>
+    <ProjectGuid>{14A6BEA0-F0F6-494A-B0C3-5CB4613C60FE}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>HW_3_Pig_Latin_Translator</RootNamespace>
-    <AssemblyName>HW 3 Pig Latin Translator</AssemblyName>
+    <RootNamespace>PigLatinTranslator</RootNamespace>
+    <AssemblyName>PigLatinTranslator</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

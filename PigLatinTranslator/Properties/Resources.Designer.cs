@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace HW_3_Pig_Latin_Translator.Properties
+namespace PigLatinTranslator.Properties
 {
 
 
@@ -44,7 +44,7 @@ namespace HW_3_Pig_Latin_Translator.Properties
             {
                 if ((resourceMan == null))
                 {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("HW_3_Pig_Latin_Translator.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("PigLatinTranslator.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
